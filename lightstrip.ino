@@ -1,4 +1,4 @@
-
+//
 // ******** DEBUG ==== should auto config to adapt different mother board *********
 //#define DATA_1 (PORTF |=  0X01)    // DATA 1    // for ATMEGA
 //#define DATA_0 (PORTF &=  0XFE)    // DATA 0    // for ATMEGA
